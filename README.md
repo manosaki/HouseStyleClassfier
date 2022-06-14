@@ -1,3 +1,3 @@
 # HouseStyleClassfier
 
-<img src="readme_img/01.PNG" width="900px"/>
+<img src="readme_img/01.JPG" width="300px"/>
